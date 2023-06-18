@@ -15,7 +15,7 @@ Make two strings:
 2) customized search keyword.
 Concatenate them
 '''
-text= "how to format beautiful soup"
+text= "webscraping guide"
 url = 'https://google.com/search?q=' + text
 
 # Fetch the URL data using requests. Get data content.
