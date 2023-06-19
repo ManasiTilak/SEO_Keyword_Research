@@ -1,6 +1,6 @@
 #CSV FILE for this project
 
-keywords_clustered.csv
+*.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
